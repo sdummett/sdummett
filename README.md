@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Stone
+
+I'm a computer science student at 42 Paris.
+
+- 🔭 I’m currently working on minishell.
+- 🌱 I’m currently learning three languages (russian, spanish and japanese). Also learning two computer languages (C and python)
 
 <!--
 **sdummett/sdummett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
