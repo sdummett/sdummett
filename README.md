@@ -2,8 +2,6 @@
 
 🌱 I'm a computer science student at 42 Paris. 🌱
 
-⌛⌛⌛
-
 <!--
 **sdummett/sdummett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
