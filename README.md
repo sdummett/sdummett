@@ -19,4 +19,5 @@ _start:
 
 		section   .data
 msg1:	db	"Hi there! I'm Stone", 0x0a
-msg2:	db	"I'm a computer science student at 42 Paris."```
+msg2:	db	"I'm a computer science student at 42 Paris."
+```
